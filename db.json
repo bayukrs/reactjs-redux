@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Bayu",
+          "alamat": "Semarang",
+          "umur": 23,
+          "no_hp": "0894738475028"
+        },
+        {
+          "id": 2,
+          "nama": "Kris",
+          "alamat": "Semarang",
+          "umur": 22,
+          "no_hp": "0894738475028"
+        },
+        {
+          "id": 3,
+          "nama": "Hendro",
+          "alamat": "Magelang",
+          "umur": 23,
+          "no_hp": "0894738475028"
+        }
+      ]
+}
